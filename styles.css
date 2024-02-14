@@ -7,7 +7,7 @@ body {
     /* Replace 'valentine_background.jpg' with your image */
     background-size: cover;
     background-position: center;
-    height: 175vh;
+    height: 150vh;
     display: flex;
     justify-content: center;
     align-items: center;
